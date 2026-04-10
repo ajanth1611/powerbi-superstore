@@ -14,4 +14,6 @@ This project analyzes sales performance using Power BI.
 - Data Visualization
 ## 📄 Files
 - PBIX file included
+##Dataset
+-https://www.kaggle.com/datasets/yesshivam007/superstore-dataset?utm_source=chatgpt.com
 
